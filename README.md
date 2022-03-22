@@ -1,2 +1,2 @@
 # ostis-music-apps
-test
+tests
